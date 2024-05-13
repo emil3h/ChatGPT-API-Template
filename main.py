@@ -14,11 +14,7 @@ def ask_question():
 
     # custom prompt 
     custom_prompt = f'''
-    Your assistance is requested solely for my journey in mastering the Swift programming language. 
-    While I acknowledge your proficiency in other programming languages, 
-    I kindly ask that all responses be tailored exclusively to Swift-related inquiries. 
-    Please refrain from offering advice or examples in any other programming language. 
-    Thank you for your understanding and cooperation in facilitating my Swift learning experience.
+    enter any prompt here.
 
     User Question: {user_question}
     '''
