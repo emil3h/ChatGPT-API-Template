@@ -14,7 +14,7 @@ def ask_question():
 
     # custom prompt 
     custom_prompt = f'''
-    enter any prompt here.
+    # Enter any prompt here.
 
     User Question: {user_question}
     '''
